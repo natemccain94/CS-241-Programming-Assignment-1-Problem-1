@@ -1,0 +1,45 @@
+COMP241
+Fall 2015
+PA1 Problem 1
+17 September, 2015
+Nate McCain
+
+First:
+A[0]=1
+A[1]=2
+A[2]=5
+A[3]=12
+A[4]=3
+A[5]=6
+A[6]=10
+A[7]=14
+A[8]=4
+A[9]=10
+A[10]=7
+A[11]=-1
+A[12]=11
+A[13]=4
+A[14]=99
+A[15]=8
+
+Second:
+A[0]=1
+A[1]=14
+A[2]=5
+A[3]=4
+A[4]=6
+A[5]=10
+A[6]=3
+A[7]=8
+A[8]=4
+A[9]=2
+A[10]=7
+A[11]=12
+A[12]=8
+A[13]=-1
+A[14]=2
+A[15]=6
+
+Bad:
+The bad array is not possible. Error messages and loops force the user to enter
+correct inputs in order for the program to proceed.
